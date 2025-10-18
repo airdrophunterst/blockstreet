@@ -1,8 +1,8 @@
-# ᝰ.ᐟ BlockStreet full options
+# ᝰ.ᐟ Neura protocol full options
 
-Link: [https://blockstreet.money/dashboard](https://blockstreet.money/dashboard?invite_code=Jsk5tF)
+Link: [https://neuraverse.neuraprotocol.io/](https://neuraverse.neuraprotocol.io/)
 
-Source: https://amautomarket.com/products/block-street-full-chuc-nang
+Source: https://amautomarket.com/products/neura-automate
 
 Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
 
@@ -12,12 +12,13 @@ I am not `responsible` for the possibility of an account being `banned`!
 
 ## 📎 kite Node cli version Script features
 
-- Auto reff
-- Auto supply
-- Auto borrow
+- Auto checkin
+- Auto chat
+- Auto tasks
+- Auto faucet
 - Auto swap
-- Auto withdraw
-- Auto repay
+- Auto bridge
+- Auto mint NFT
 - Support proxy or not
 - Mutiple threads, multiple accounts
 
